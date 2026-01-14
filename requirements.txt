@@ -1,3 +1,16 @@
-# AI Voice Note Summarizer - Main Dependencies
+# AI Voice Note Summarizer - Complete Project Dependencies
+# Core HTTP and API
 requests>=2.31.0
+
+# AI/ML Framework
 agent_framework>=1.0.0
+
+# Speech Processing
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+
+# Natural Language Processing
+nltk>=3.8.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
