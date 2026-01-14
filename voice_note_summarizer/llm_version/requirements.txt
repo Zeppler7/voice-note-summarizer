@@ -1,5 +1,6 @@
-agent_framework
-requests
-python-dotenv
-speech_recognition
-pyaudio
+# LLM Version Dependencies
+agent_framework>=1.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
