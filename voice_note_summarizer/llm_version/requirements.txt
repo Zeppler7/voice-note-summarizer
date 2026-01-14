@@ -1,0 +1,5 @@
+agent_framework
+requests
+python-dotenv
+speech_recognition
+pyaudio
